@@ -1,0 +1,46 @@
+li a{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+p{
+    font-family: 'Inter', sans-serif;
+}
+
+
+
+
+
+.intro{
+    width:30rem;
+    position:absolute;
+    bottom:300px;
+    left:160px;
+
+}
+
+
+.name{
+    font-size: 4.6rem;
+    font-weight: 600;
+    margin:30px 0;
+    letter-spacing:3px;
+}
+
+.intro-descrip{
+    font-weight: 300;
+    font-size:1.6rem;
+}
+
+.intro-pic{
+    /* border:1px solid black; */
+    position:absolute;
+    bottom:30px;
+    right:70px;
+}
+
+.pic{
+    width:38rem;
+
+}
